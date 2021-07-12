@@ -1,2 +1,2 @@
-npx create-next-app –example with-tailwindcss cookie-stand-admin
+npx create-next-app –-example with-tailwindcss cookie-stand-admin
 
